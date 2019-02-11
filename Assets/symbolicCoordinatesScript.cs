@@ -120,7 +120,7 @@ public class symbolicCoordinatesScript : MonoBehaviour
 
 
 
-			int pickedLetter1 = UnityEngine.Random.Range(0, 29);
+			int pickedLetter1 = UnityEngine.Random.Range(0, 30);
 
 					switch (pickedLetter1)
 					{
@@ -216,7 +216,7 @@ public class symbolicCoordinatesScript : MonoBehaviour
 									break;
 					}
 
-			int pickedLetter2 = UnityEngine.Random.Range(0, 29);
+			int pickedLetter2 = UnityEngine.Random.Range(0, 30);
 
 					switch (pickedLetter2)
 					{
@@ -312,7 +312,7 @@ public class symbolicCoordinatesScript : MonoBehaviour
 								break;
 					}
 
-					int pickedLetter3 = UnityEngine.Random.Range(0, 29);
+					int pickedLetter3 = UnityEngine.Random.Range(0, 30);
 
 							switch (pickedLetter3)
 							{
@@ -408,7 +408,7 @@ public class symbolicCoordinatesScript : MonoBehaviour
 										break;
 							}
 
-						int pickedDigit1 = UnityEngine.Random.Range(0, 11);
+						int pickedDigit1 = UnityEngine.Random.Range(0, 12);
 
 								switch (pickedDigit1)
 								{
@@ -450,7 +450,7 @@ public class symbolicCoordinatesScript : MonoBehaviour
 												break;
 								}
 
-						int pickedDigit2 = UnityEngine.Random.Range(0, 11);
+						int pickedDigit2 = UnityEngine.Random.Range(0, 12);
 
 								switch (pickedDigit2)
 								{
@@ -492,7 +492,7 @@ public class symbolicCoordinatesScript : MonoBehaviour
 												break;
 										}
 
-								int pickedDigit3 = UnityEngine.Random.Range(0, 11);
+								int pickedDigit3 = UnityEngine.Random.Range(0, 12);
 
 										switch (pickedDigit3)
 										{
